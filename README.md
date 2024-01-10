@@ -22,7 +22,15 @@ file_path = None
 covid_data = pd.read_csv(file_path)
 
 ### List of countries for your group - replace with the list for your group
-group_countries = None
+group_countries = [
+'El Salvador', 'Equatorial Guinea', 'Eritrea', 'Estonia',
+'Eswatini', 'Ethiopia', 'Fiji', 'Finland', 'France', 'Gabon',
+'Gambia', 'Georgia', 'Germany', 'Ghana', 'Greece', 'Greenland',
+'Grenada', 'Guatemala', 'Guinea', 'Guinea-Bissau', 'Guyana',
+'Haiti', 'Holy See', 'Honduras', 'Hungary', 'Iceland', 'India',
+'Indonesia', 'Iran', 'Iraq', 'Ireland', 'Israel', 'Italy',
+'Jamaica', 'Japan', 'Jordan', 'Kazakhstan', 'Kenya', 'Kosovo']
+
 
 ### Filter the COVID-19 data for the countries assigned to your group
 group_data = covid_data[covid_data['Country/Region'].isin(group_six)]
