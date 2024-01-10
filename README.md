@@ -39,17 +39,16 @@ Are there any missing values in the dataset? If so, how are they handled?
 Are there any inconsistencies or anomalies in the data that need to be addressed?
 
 
- ### Grouping:
+### Grouping:
 What is the total number of confirmed cases, deaths, and recoveries for each country in the dataset?
 How does the distribution of COVID-19 cases vary across different countries?
 
-
- ### Pivot Tables:
+### Pivot Tables:
 Can you create a pivot table to show the total number of confirmed cases, deaths, and recoveries for each date and country?
- ### Time Series Analysis:
+### Time Series Analysis:
 How has the number of confirmed cases changed over time for each country?
 Are there any noticeable trends or patterns in the data?
- ### Plotting with Matplotlib/Seaborn:
+### Plotting with Matplotlib/Seaborn:
 Can you create a line plot showing the trend of confirmed cases over time for a specific country?
 How does the number of confirmed cases compare between different countries? Can you visualize this comparison using a bar plot or a heatmap?
 ### Bonus:
