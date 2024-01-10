@@ -1,10 +1,5 @@
 # Meditechy-COVID_19-Group3
-This is our first group project as part of Meditechy python(AI) course. 
-
-
-
-
-Group Three Members:
+This is our first group project as part of the Meditechy Python (AI) course. Members of the group are:
 Etieneobong Oko, 
 Ezenwalie Somto, 
 Fisha Mehabaw, 
