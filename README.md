@@ -1,16 +1,16 @@
 # Meditechy-COVID_19-Group3
 This is our first group project as part of the Meditechy Python (AI) course. Members of group 3 are:
-### Etieneobong Oko, 
-### Ezenwalie Somto, 
-### Fisha Mehabaw, 
-### Gabriel Ntwari, 
-### Grace Ogundaini, 
-### Hamse Mohamed, 
-### Ibrahim Kamara,  
-### Ibtissam Chouja, 
+### Etieneobong Oko 
+### Ezenwalie Somto 
+### Fisha Mehabaw 
+### Gabriel Ntwari
+### Grace Ogundaini 
+### Hamse Mohamed 
+### Ibrahim Kamara  
+### Ibtissam Chouja
 ### IDOWU Dolapo
 
-We are to administer the following task on a COVID-19 dataset 
+We are to administer the following tasks on a COVID-19 dataset 
 
 
 ## Import the necessary libraries 
