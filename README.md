@@ -1,5 +1,5 @@
 # Meditechy-COVID_19-Group3
-This is our first group project as part of the Meditechy Python (AI) course. Members of the group are:
+This is our first group project as part of the Meditechy Python (AI) course. Members of group 3 are:
 ### Etieneobong Oko, 
 ### Ezenwalie Somto, 
 ### Fisha Mehabaw, 
@@ -12,9 +12,8 @@ This is our first group project as part of the Meditechy Python (AI) course. Mem
 
 We are to administer the following task on a COVID-19 dataset 
 
-# Tasks 
 
-Import the necessary libraries 
+## Import the necessary libraries 
 
 ### Load the COVID-19 dataset
 ### Replace with the path to the file
